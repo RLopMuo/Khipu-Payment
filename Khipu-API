@@ -10,7 +10,7 @@ payload = {
 
 headers = {
   "Content-Type": "application/json",
-  "x-api-key": "aaf63c94-7d7e-4e73-8aef-9905cf742a69"
+  "x-api-key": "XXXXXXX"
 }
 
 response = requests.post(url, json=payload, headers=headers)
